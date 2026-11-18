@@ -1,0 +1,8 @@
+# Recomendado: Python 3.11, entorno virtual nuevo de PyCharm.
+python-telegram-bot>=22.3,<23
+google-genai>=1.35,<2
+chromadb>=1.0,<2
+sentence-transformers>=5.0,<6
+langchain-text-splitters>=0.3,<2
+pypdf>=5.0,<7
+python-dotenv>=1.0,<2
